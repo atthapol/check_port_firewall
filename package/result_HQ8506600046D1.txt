@@ -1,0 +1,14 @@
+-------------------------------------
+Start: check network port is open Version.0.9. at computer:%!(EXTRA string=HQ8506600046D1, net.IP=192.168.213.147, string=
+)-------------------------------------
+Ping: 10.9.212.89 is alive.
+Connecting error: 10.9.212.89:8080
+Connecting error: 10.9.212.89:8180
+Connecting error: 10.9.212.89:8443
+Connecting error: 10.9.212.89:80
+Ping: 10.9.224.49 is alive.
+Connecting error: 10.9.224.49:1433
+Connecting error: 10.9.224.49:90
+-------------------------------------
+Finish: check network port is open. at computer:%!(EXTRA string=HQ8506600046D1, net.IP=192.168.213.147, string=
+)-------------------------------------
